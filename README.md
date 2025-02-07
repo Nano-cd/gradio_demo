@@ -33,7 +33,7 @@ python your_script.py
 
 以下是一些示例图片，可以用于测试预测功能：
 
-- ![示例图片1](examples/250116073019.094-6-4.jpg)
+- ![示例图片1](11.png)
 - ![示例图片2](examples/sample_image_2.jpg)
 - ![示例图片3](examples/sample_image_3.jpg)
 
