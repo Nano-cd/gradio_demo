@@ -93,14 +93,6 @@ pip install gradio ultralytics pillow scikit-image
 -   **返回**:
     -   返回一个字典，键是类别名称，值是对应的置信度（概率）。
 
-### 示例图片
-
-以下是一些示例图片，可以用于测试预测功能：
-
--   ![示例图片1](examples/sample_image_1.png)
--   ![示例图片2](examples/sample_image_2.jpg)
--   ![示例图片3](examples/sample_image_3.jpg)
-
 ## 许可证
 
 该项目遵循 [MIT 许可证](LICENSE)。
